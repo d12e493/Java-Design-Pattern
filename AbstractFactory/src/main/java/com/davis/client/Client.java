@@ -8,7 +8,7 @@ public class Client {
 
 	public static void main(String[] args) {
 		AbstractFactory factory = null;
-
+         	//abc
 		factory = new Factory1();
 		factory.commonExecute();
 
